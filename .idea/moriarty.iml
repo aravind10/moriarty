@@ -5,5 +5,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="NRE_ToolsWebsite" />
+    <orderEntry type="module" module-name="NRE_ToolsWebsite" />
+    <orderEntry type="module" module-name="Nretools_oncall" />
+    <orderEntry type="module" module-name="Skynet" />
+    <orderEntry type="module" module-name="SkynetTasks" />
+    <orderEntry type="module" module-name="SkynetCore" />
   </component>
 </module>

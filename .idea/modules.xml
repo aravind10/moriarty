@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/RHEL/workplace/mohankum/Nretools_new/src/NRE_ToolsWebsite/.idea/NRE_ToolsWebsite.iml" filepath="$USER_HOME$/RHEL/workplace/mohankum/Nretools_new/src/NRE_ToolsWebsite/.idea/NRE_ToolsWebsite.iml" />
       <module fileurl="file://$USER_HOME$/RHEL/workplace/mohankum/Nretools_oncall/src/NRE_ToolsWebsite/.idea/NRE_ToolsWebsite.iml" filepath="$USER_HOME$/RHEL/workplace/mohankum/Nretools_oncall/src/NRE_ToolsWebsite/.idea/NRE_ToolsWebsite.iml" />
+      <module fileurl="file://$USER_HOME$/RHEL/workplace/mohankum/Nretools_oncall/.idea/Nretools_oncall.iml" filepath="$USER_HOME$/RHEL/workplace/mohankum/Nretools_oncall/.idea/Nretools_oncall.iml" />
+      <module fileurl="file://$USER_HOME$/RHEL/workplace/mohankum/Skynet/.idea/Skynet.iml" filepath="$USER_HOME$/RHEL/workplace/mohankum/Skynet/.idea/Skynet.iml" />
+      <module fileurl="file://$USER_HOME$/RHEL/workplace/mohankum/Skynet_website/src/SkynetCore/.idea/SkynetCore.iml" filepath="$USER_HOME$/RHEL/workplace/mohankum/Skynet_website/src/SkynetCore/.idea/SkynetCore.iml" />
+      <module fileurl="file://$USER_HOME$/RHEL/workplace/mohankum/Skynet_website/src/SkynetTasks/.idea/SkynetTasks.iml" filepath="$USER_HOME$/RHEL/workplace/mohankum/Skynet_website/src/SkynetTasks/.idea/SkynetTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/moriarty.iml" filepath="$PROJECT_DIR$/.idea/moriarty.iml" />
     </modules>
   </component>
